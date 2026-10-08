@@ -1,0 +1,6 @@
+{
+  "name": "StockScope AI — AI Stock Research Dashboard",
+  "description": "Understand the market. Explore the numbers. An interactive, beginner-friendly stock research dashboard with historical price charts, financial metrics, company comparisons, and Gemini-powered explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
